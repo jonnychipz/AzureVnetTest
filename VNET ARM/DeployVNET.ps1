@@ -1,0 +1,1 @@
+New-AzureRmResourceGroupDeployment -Name TestJonnychipzDeployment -ResourceGroupName Jonnychips-RG -TemplateFile template.json -TemplateParameterFile parameters.json
